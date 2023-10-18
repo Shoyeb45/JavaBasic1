@@ -1,5 +1,6 @@
 # JavaBasic1
 Learning Phase Code. 
+During Counselling months.
 <br>
 Following topics are covered in this repository: 
 <br>
